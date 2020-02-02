@@ -14,7 +14,5 @@ public: //Prototype des variables
 
   void setW(std::string word);
   std::string getW();
-
-  //int nbr_retour(str::string mot);
 };
 #endif
